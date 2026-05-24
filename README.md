@@ -4,7 +4,7 @@ To launch this project, use next steps:
 Open a terminal in VS Code, clone the repository, and navigate to the project folder. Then install the required libraries:  
 
 ```bash
-git clone [https://github.com/ваше-ім'я-користувача/назва-репозиторію.git](https://github.com/ваше-ім'я-користувача/назва-репозиторію.git)  
+git clone [https://github.com/anamish05/mongodb.git]
 cd mongodb  
 
 # dependencies for Python  
